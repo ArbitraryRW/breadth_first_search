@@ -9,6 +9,6 @@ Graphs are a network model, they allow both uni-directional and or bi-directiona
 
 
 ### Implementation 
-Searches a static set of arrays. 
+Searches a static set of arrays for a name that ends in a certain character.
 
 It starts at the tree root and then explores all of the neighbor nodes at the present depth, prior to moving on to the nodes at the next depth level.
